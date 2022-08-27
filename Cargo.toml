@@ -15,7 +15,7 @@ include = ["**/*.rs", "Cargo.toml"]
 
 [dependencies]
 gl = "0.14"
-egui = { git = "https://github.com/neilgrattan/egui.git", branch = "my_forked_0_16"}
+egui = { git = "https://github.com/neilgrattan/egui.git", branch = "my_forked_0_16_1"}
 sdl2 = "0.35"
 
 [dependencies.epi]
